@@ -2,7 +2,7 @@
 THIS IS TOOL MADE BY : » ABHI YADAV
 # ABHI
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay shri ram__💞;Coded+By+ABHI-YADAV" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ABHI-YADAV;Jay shri ram__💞;Coded+By+ABHI-YADAV;POST+CONVO" alt="Typing SVG" /></a>
   
 THIS REPOSITORY MADE BY ABHI_YADAV
 <h1 align="center">Hi 👋, I'M ABHI YADAV</h1>
